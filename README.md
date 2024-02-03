@@ -6,11 +6,11 @@
 
 1. Скопируйте в свой git репозиторий с помощью комманды:
 
-  'git clone https://github.com/WaRotiFY/products'
+    'git clone https://github.com/WaRotiFY/products'
 
 2. Запустите python файл коммандой:
 
-  'python3 <Название_файла.py>'
+    'python3 <Название_файла.py>'
 
 ## Использование проекта
 
